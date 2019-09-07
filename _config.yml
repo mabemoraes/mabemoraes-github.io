@@ -1,6 +1,6 @@
 # Site
 title:              'Blog Pessoal - Maria Beatriz'
-bio:                'Projeto de Jogos'
+bio:                'Projeto de Jogos Digitais'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:
+email: mrbtrznogueira@gmail.com
 twitter:            username
 #facebook:           username
 github-url:         username
